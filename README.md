@@ -1,38 +1,35 @@
-# Frontend Mentor - QR code component solution
+# QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+My solution to the Frontend Mentor QR code component challenge, built with semantic HTML and CSS.
 
-## Table of contents
+**Live demo:** https://qr-code-card-tau.vercel.app/
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+<p>
+  <img src="screenshots/Desktop-screenshot.png" alt="QR Code Component screenshot" width="70%"/>
+  <img src="screenshots/mobile-screenshot.png" alt="QR Code Component screenshot" width="25%"/>
+</p>
 
-## Overview
+## Features
 
-### Screenshot
+- Pixel-accurate match of the Frontend Mentor design
+- Centred card layout with Flexbox
+- Responsive on mobile and desktop
 
-![](./screenshots/Desktop-screenshot.png)
-![](./screenshots/mobile-screenshot.png)
+## Tech stack
 
-### Links
+- HTML5
+- CSS3 (Flexbox)
 
-- Live Site URL: https://qr-code-card-tau.vercel.app/
+## Getting started
 
-## My process
+Open `index.html` in a browser.
 
-### Built with
+## Credits
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow 
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
 
 ## Author
 
-- Website - [Muhammad Kabir Kaka](https://www.your-site.com)
-- Frontend Mentor - [@KabirKaka](https://www.frontendmentor.io/profile/KabirKaka)
-- Linkedin - [@Muhammad Kabir Kaka](https://www.linkedin.com/in/muhammad-kabir-kaka/)
+**Muhammad Kabir Kaka**, Frontend Engineer (React · Next.js · TypeScript)  
+[GitHub](https://github.com/KabirKaka) · [LinkedIn](https://www.linkedin.com/in/muhammad-kabir-kaka)
